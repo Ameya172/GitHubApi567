@@ -4,7 +4,7 @@ from hw4a import get_user_repos
 class TestGetUserRepos(unittest.TestCase):
     def test_get_user_repos_success(self):
         user_id = "Ameya172"
-        expected_result = [("SSW567", 20)]
+        expected_result = [('GitHubApi567', 9), ("SSW567", 20)]
         self.assertEqual(get_user_repos(user_id), expected_result)
 
     def test_get_user_repos_error(self):
