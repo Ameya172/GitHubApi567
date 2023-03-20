@@ -1,4 +1,5 @@
 import unittest
+from hw4a import get_user_repos
 
 class TestGetUserRepos(unittest.TestCase):
     def test_get_user_repos_success(self):
