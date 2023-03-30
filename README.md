@@ -31,4 +31,4 @@ The get_user_repos function includes error handling to ensure that the program w
 [![Ameya172](https://circleci.com/gh/Ameya172/GitHubApi567.svg?style=svg)](https://app.circleci.com/pipelines/github/Ameya172/GitHubApi567?branch=HW05a_Mocking&filter=all)
 =======
 
->>>>>>> origin/main
+>>>>>>> origin/HW05a_Mocking
