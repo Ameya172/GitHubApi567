@@ -28,4 +28,7 @@ This will run all of the tests and output the results to the console.
 # Notes on the get_user_repos function
 The get_user_repos function includes error handling to ensure that the program will not crash if an invalid user ID is provided or if the GitHub API is unavailable. If an error occurs, the function returns an empty list.
 
-`[![Ameya172](https://circleci.com/gh/Ameya172/GitHubApi567.svg?style=svg)](https://app.circleci.com/pipelines/github/Ameya172/GitHubApi567?branch=HW05a_Mocking&filter=all)` 
+[![Ameya172](https://circleci.com/gh/Ameya172/GitHubApi567.svg?style=svg)](https://app.circleci.com/pipelines/github/Ameya172/GitHubApi567?branch=HW05a_Mocking&filter=all)
+=======
+
+>>>>>>> origin/main
